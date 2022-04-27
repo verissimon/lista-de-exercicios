@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//calcular media simples a partir de tres notas
 void main ()
 {
     float nota1, nota2, nota3;
