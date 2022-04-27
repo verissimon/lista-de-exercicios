@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <math.h>
 #define _USE_MATH_DEFINES
-
+//Escreva um programa que leia o valor do raio de uma circunferência e calcule a sua
+//área e o seu comprimento.
 void main()
 {
     float raio;
