@@ -8,5 +8,6 @@ void main (){
     scanf("%f", &lado);
     float area = lado * lado;
     printf("a area eh %.2f", area);
-
+    float perimetro = lado*4;
+    printf("o perimetro eh %.2f", perimetro);
 }
